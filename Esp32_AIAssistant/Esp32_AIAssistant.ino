@@ -5,7 +5,7 @@
 
 const char* ssid = "Wifi";
 const char* password = "khongchodau";
-const char* Gemini_Token = "AIzaSyAGbJHtQT1jjsTGvhRpK8CLJYBd55rdh2I";
+const char* Gemini_Token = "";
 const char* Gemini_Max_Tokens = "100";
 String res = "";
 
